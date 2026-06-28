@@ -1,0 +1,21 @@
+ async await>> promise chains>> callback hell
+
+ sync in js :
+ code runs in sequence as written in js.
+
+async :
+not in sequence , generally used in case of api use.
+
+**set time out func:
+
+callback func:
+
+callback hell:
+
+callback hell is a problem in js which is removed by using promises.
+
+Promises: promise is for eventual completion of task. It is an object in js.
+      it can be pending , resolved or reject.
+
+promise chain:      
+

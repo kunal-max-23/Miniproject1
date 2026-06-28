@@ -1,0 +1,91 @@
+ *{
+    margin: 0;
+    padding: 0;
+ text-align: center;
+ }
+
+
+ body{
+ background: radial-gradient(circle, rgb(4, 4, 113), rgb(54, 3, 90), rgb(128, 3, 128));
+ }
+
+.box{
+    margin-top: 20rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#searchBar{
+  width: 4rem;
+  height: 3rem;
+  padding: 10px;
+  border-radius: 1rem;
+  background-color: #574e82;
+  border: 1rem solid #574e82;
+  font-size: 16px;
+  color: rgb(30, 20, 20);
+}
+.search{  
+    display: flex;
+    border: none;
+    padding: 3px;
+    justify-content: center;
+    align-items: center;
+    gap: 4vmin;
+    }
+
+#fromcur{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(162, 215, 246);
+    border: none;
+}
+
+
+#tocur{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(218, 132, 26);
+    border: none;
+}
+
+.msg-container{
+
+    margin-top: 2rem;
+    display: flex;
+    gap: 4vmin;
+    justify-content: center;
+    align-items: center;
+}
+
+.msg{
+    padding: 4px;
+    display: inline;
+    background-color: rgb(149, 150, 156);
+    border-radius: 5px;
+    border: none;
+}
+
+.rate{
+
+    padding: 4px;
+    display: inline;
+    background-color: rgb(149, 150, 156);
+    border-radius: 5px;
+    border: none;
+}
+
+.convert{
+    margin-top: 1rem;
+}
+
+#search{
+    padding: 4px;
+    display: inline;
+    background-color: rgb(168, 177, 227);
+    border-radius: 5px;
+    border: none;
+
+}
